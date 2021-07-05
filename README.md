@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on bioinformatics
-- 📫 How to reach me bioinformatics
+- 📫 How to reach me: frankambrosio3@gmail.com
 
 <!---
 frankambrosio3/frankambrosio3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
