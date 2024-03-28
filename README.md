@@ -17,7 +17,7 @@
   
 - 📫 For professional inquiries please reach out via email: **frank.ambrosio@theiagen.com**
 
-- For all other inquiries please use my personal email: **frankambrosio3@gmail.com**
+- 🥳 For all other inquiries please use my personal email: **frankambrosio3@gmail.com**
 
 </td>
 <td width="50%" align="center">
