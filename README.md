@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://avatars.githubusercontent.com/u/50809249?s=200&v=4" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Frank Ambrosio, Senior Bioinformatics Scientist at Theiagen Genomics</h1>
-<h3 align="center">Passionate Public Health Professional | Devoted Workflow Developer | Scientific Educator</h3>
+<h3 align="center">Passionate Public Health Professional | Devoted Workflow Developer | Enthusiastic Scientific Educator</h3>
 
 <table align="center">
 <tr border="none">
