@@ -10,7 +10,7 @@
   
 - 🗂️ Before starting with Theiagen, I worked at **Cold Spring Harbor Laboratories** and the **Centers for Disease Control and Prevention**
 
-- 🥇 I’m a graduate of the **Georgia Tech Bioinformatics Master's Program** and the **SUNY Binghamton Bioengineering Bachelor's Program**
+- 🥇 I’m a graduate of the **Georgia Tech Master of Science Bioinformatics Program** and the **SUNY Binghamton Bachelor of Science Bioengineering Program**
 
 - 💬 Ask me about **Pathogen Genomics | Genomic Epidemiology | Workflow Managers | Cloud Computing | Docker Containers**
   
