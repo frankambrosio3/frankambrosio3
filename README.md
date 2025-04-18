@@ -21,6 +21,4 @@
 
 - 💡 Ask me about **Pathogen Genomics | Genomic Epidemiology | Workflow Managers | Cloud Computing | HPC Clusters**.
 
-- 📫 For professional inquiries, please reach out via email: **frank.ambrosio@stonybrook.edu**.
-
-- 🎉 For all other inquiries, feel free
+- 📫 For professional inquiries, please reach out via email: **francis.ambrosio@stonybrookmedicine.edu**.
