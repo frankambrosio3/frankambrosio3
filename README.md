@@ -4,21 +4,25 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Frank Ambrosio, Computational Scientist at Stony Brook University</h1>
-<h3 align="center">Passionate Computational Biologist | Devoted Workflow Developer | Enthusiastic Scientific Educator</h3>
+<h1 align="center">Hi 👋, I'm Frank Ambrosio, Solution Engineer at Snowflake</h1>
+<h3 align="center">AI Data Cloud Enthusiast | Solution Engineering | Data Innovation Advocate</h3>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-- 🖥️ I’m currently a **Computational Scientist** at **Stony Brook University**, focusing on **data science**, **bioinformatics**, and **computational biology**.
+- 🚀 Currently a **Solution Engineer** at **Snowflake**, helping organizations unlock the power of the **AI Data Cloud** for scalable, secure, and innovative data solutions.
 
-- ⚙️ I manage **high-performance computing resources**, including the **SeaWulf cluster**, to support research across various scientific fields.
+- 🤖 Driven by a passion for AI, cloud data platforms, and empowering teams to leverage next-generation technology for real-world impact.
 
-- 🌟 My professional experience includes working at the **CDC**, **Cold Spring Harbor Laboratory (CSHL)**, and the **public health industry**, where I specialized in **cloud-based bioinformatics workflows** and training public health practitioners.
+- 🌐 Deep believer in the transformative future of the AI Data Cloud and its ability to revolutionize industries through data-driven innovation.
 
-- 🎓 I hold a **Master of Science in Bioinformatics** from **Georgia Tech** and a **Bachelor of Science in Bioengineering** from **SUNY Binghamton**.
+- 🎓 Master of Science in Bioinformatics from **Georgia Tech** and Bachelor of Science in Bioengineering from **SUNY Binghamton**.
 
-- 💡 Ask me about **Pathogen Genomics | Genomic Epidemiology | Workflow Managers | Cloud Computing | HPC Clusters**.
+- 💡 Ask me about **AI Data Cloud | Data Architecture | Cloud Computing | Solution Engineering | Data Analytics**.
 
-- 📫 For professional inquiries, please reach out via email: **francis.ambrosio@stonybrookmedicine.edu**.
+- 📫 For professional inquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/frank-ambrosio) or email: **frankambrosio3@gmail.com**.
+
+</td>
+</tr>
+</table>
