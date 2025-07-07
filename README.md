@@ -1,9 +1,3 @@
-<p align="center">
-  <picture align="center">
-    <img align="center" src="https://avatars.githubusercontent.com/u/50809249?s=200&v=4" width="50px">
-  </picture>
-</p>
-
 <h1 align="center">Hi 👋, I'm Frank Ambrosio, Solution Engineer at Snowflake</h1>
 <h3 align="center">AI Data Cloud Enthusiast | Solution Engineering | Data Innovation Advocate</h3>
 
